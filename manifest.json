@@ -6,25 +6,7 @@
       "title": "MVVM",
       "version": 1,
       "url": "https://johndev-robo.github.io/my-manuals/pdfs/mvvm .pdf"
-    },
-    {
-      "id": "htmlcheetsheet",
-      "title": "htmlcheetsheet",
-      "version": 1,
-      "url": "https://johndev-robo.github.io/my-manuals/pdfs/html cheatsheet.pdf"
-    },
-    {
-      "id": "mathlp",
-      "title": "mathlp",
-      "version": 1,
-      "url": "https://johndev-robo.github.io/my-manuals/pdfs/mathlp.pdf"
-    },
-      {
-      "id": "scratch",
-      "title": "scratch",
-      "version": 1,
-      "url": "https://johndev-robo.github.io/my-manuals/pdfs/scratch.pdf"
-    },
+    }
       
   ]
 }
