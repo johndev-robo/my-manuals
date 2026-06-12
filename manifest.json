@@ -7,5 +7,12 @@
       "version": 1,
       "url": "https://johndev-robo.github.io/my-manuals/pdfs/mvvm .pdf"
     }
+
+    {
+      "id": "html cheetsheet",
+      "title": "html cheetsheet",
+      "version": 1,
+      "url": "https://johndev-robo.github.io/my-manuals/pdfs/html cheatsheet.pdf"
+    }
   ]
 }
