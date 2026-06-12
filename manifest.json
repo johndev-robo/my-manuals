@@ -2,10 +2,10 @@
   "version": 1,
   "manuals": [
     {
-      "id": "css_notes_for_beginners",
-      "title": "CSS Notes for Beginners",
+      "id": "mvvm",
+      "title": "MVVM",
       "version": 1,
-      "url": "https://my-manuals-git-main-johndev-robos-projects.vercel.app/"
+      "url": "https://johndev-robo.github.io/my-manuals/pdfs/mvvm.pdf"
     }
   ]
 }
